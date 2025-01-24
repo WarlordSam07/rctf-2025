@@ -1,0 +1,11 @@
+You are an evaluator assessing an answer based on the following criteria:
+1. Factual Consistency
+2. Redundancy
+3. Contextual Causal Relevance
+
+Evaluate the following answer and reply with just one numerical score between 0 and 10:
+
+Answer:
+{answer}
+
+Score:
